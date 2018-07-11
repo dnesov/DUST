@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1531250581,
+	"version": 1531326381,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,8 @@
 		"animate.min.css",
 		"html2canvas.min.js",
 		"animate.css",
-		"hmmg_layoutTransition.css"
+		"hmmg_layoutTransition.css",
+		"jquery.gritter.js",
+		"jquery.gritter.css"
 	]
 }
